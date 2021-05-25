@@ -44,6 +44,10 @@ a.btn:hover {
 
 
 /* Content / Sections */
+/* .post {
+        max-width: 70%;
+    } */
+
 .post-holder.odd {
     background: #00356b;
     color: white;
